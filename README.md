@@ -4,7 +4,7 @@ Overlay Trace puts a see-through copy of a screenshot on top of any other progra
 
 For example, say you have a screenshot of someone's settings screen and you want to recreate those settings in the real program. Open the screenshot in Overlay Trace, make it half see-through, and place it over the real window. Then press Alt+1 to lock it. Locked means the screenshot stays on top of everything and your mouse clicks pass straight through it, so you can keep using the real program underneath while still seeing the screenshot over it. Press Alt+0 to unlock it when you want to move or resize it again.
 
-Version 0.1b (beta). Built with AI assistance.
+Currently in beta. Built with AI assistance.
 
 ## Screenshots
 <img width="380" height="477" alt="image" src="https://github.com/user-attachments/assets/cb4c80f5-cb98-4bda-8e78-7659026e7f58" />
@@ -19,7 +19,7 @@ Version 0.1b (beta). Built with AI assistance.
 4. Press Alt+0 to unlock it again.
 
 ## Download
-Get OverlayTrace_v0.1b.zip from the Releases page, extract it, and run OverlayTrace.exe.
+Download the zip from the [latest release](https://github.com/Sid-The-Wizard/OverlayTrace/releases/latest), extract it, and run OverlayTrace.exe.
 
 Windows may show a "protected your PC" message because the app isn't code-signed yet.
 Click More info, then Run anyway. The checksum for each release is in its notes.
