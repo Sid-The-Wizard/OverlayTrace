@@ -1,10 +1,13 @@
 # Overlay Trace
 
-Overlay Trace puts a see-through copy of a screenshot on top of any other program, so you can line the two up and copy what you see exactly. It is made for Windows 11, needs no install, and you just run the .exe.
+Overlay Trace puts a see-through copy of a screenshot on top of any other program, so you can line the two up and copy what you see exactly. It is designed for Windows 11, needs no install, and you just run the .exe.
 
 For example, say you have a screenshot of someone's settings screen and you want to recreate those settings in the real program. Open the screenshot in Overlay Trace, make it half see-through, and place it over the real window. Then press Alt+1 to lock it. Locked means the screenshot stays on top of everything and your mouse clicks pass straight through it, so you can keep using the real program underneath while still seeing the screenshot over it. Press Alt+0 to unlock it when you want to move or resize it again.
 
 Currently in beta. Built with AI assistance.
+
+## Windows support
+Overlay Trace is designed for Windows 11, and that is the only version it has been tested on. It will most likely also work on Windows 10, because it only uses features that Windows 10 has too, but this is untested so it is not guaranteed. If you try it on Windows 10, please let me know how it goes by opening an issue. Older versions of Windows are not supported.
 
 ## Screenshots
 <img width="380" height="477" alt="image" src="https://github.com/user-attachments/assets/cb4c80f5-cb98-4bda-8e78-7659026e7f58" />
