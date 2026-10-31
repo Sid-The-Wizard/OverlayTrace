@@ -6,6 +6,8 @@ Made for Windows 11 in C#. No install needed, just run the .exe.
 Version 0.1b (beta). Built with AI assistance.
 
 ## Screenshots
+<img width="380" height="477" alt="image" src="https://github.com/user-attachments/assets/cb4c80f5-cb98-4bda-8e78-7659026e7f58" />
+
 
 
 
