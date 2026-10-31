@@ -5,6 +5,10 @@ Made for Windows 11 in C#. No install needed, just run the .exe.
 
 Version 0.1b (beta). Built with AI assistance.
 
+## Screenshots
+
+
+
 ## How to use
 1. Open or paste a screenshot (Ctrl+V). PNG, JPG, BMP, GIF and TIFF work.
 2. Set the opacity, size and position, and drag the edges to stretch it.
