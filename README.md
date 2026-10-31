@@ -12,7 +12,7 @@ Version 0.1b (beta). Built with AI assistance.
 4. Press Alt+0 to unlock it again.
 
 ## Download
-Get OverlayTrace.zip from the Releases page, extract it, and run OverlayTrace.exe.
+Get OverlayTrace_v0.1b.zip from the Releases page, extract it, and run OverlayTrace.exe.
 
 Windows may show a "protected your PC" message because the app isn't code-signed yet.
 Click More info, then Run anyway. The checksum for each release is in its notes.
